@@ -48,6 +48,3 @@ Type `exit` to quit.
 - The LLM used is `ibm-granite/granite-4.2-3b` via Hugging Face Inference Endpoint — swap `repo_id` in `app.py` to use a different model.
 - `.env` and `myvenv/` are excluded from version control via `.gitignore` — never commit API keys.
 
-## License
-
-MIT
